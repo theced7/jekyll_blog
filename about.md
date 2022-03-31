@@ -1,6 +1,8 @@
+---
 layout: page
 title: "about"
 permalink: /about/
+---
 
 # Das ist eine "Über" Seite
 
