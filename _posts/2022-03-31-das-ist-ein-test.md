@@ -4,7 +4,7 @@ title:  "Das ist ein Test!"
 date:   2022-03-31 19:14:27 +0200
 ---
 
-# Test!
+## Test!
 
 Das ist ein **Test-Post** um *Markdown* und **Jekyll** auszuprobieren.
 
@@ -21,3 +21,7 @@ Was macht das?
     </li>
   {% endfor %}
 </ul>
+
+Das ist ein Test für Liquid filter {{ "DAS SOLLTE ALLES KLEIN SEIN" | downcase }}
+
+{{ page.url }}

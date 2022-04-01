@@ -29,6 +29,14 @@ url: "https://theced7.github.io" # the base hostname & protocol for your site, e
 twitter_username: jekyllrb
 github_username:  jekyll
 
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: jekyllrb
+    github:  jekyll
+
 # Build settings
 #theme: minima
 remote_theme: jekyll/minima 
