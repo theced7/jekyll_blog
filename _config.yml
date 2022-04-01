@@ -29,8 +29,9 @@ url: "https://theced7.github.io" # the base hostname & protocol for your site, e
 twitter_username: jekyllrb
 github_username:  jekyll
 
+
 minima:
-  date_format: "%b %-d, %Y"
+  date_format: "%F"
 
   # generate social links in footer
   social_links:
@@ -42,6 +43,7 @@ minima:
 remote_theme: jekyll/minima 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
