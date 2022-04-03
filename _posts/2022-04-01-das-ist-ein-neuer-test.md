@@ -8,7 +8,7 @@ date:   2022-04-01 00:00:27 +0200
 
 Wie der wohl aussschauen mag?
 
-Das ist ein Bild: ![Bild](/assets/img/1.png)
+Das ist ein Bild: ![Bild]({{ "/assets/img/1.png" | relative_url }})
 
 ## Das ist ein Test für das plugin `timeago`
 
