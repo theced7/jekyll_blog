@@ -1,4 +1,6 @@
-name: Testing the GitHub Pages publication
+name: Build and deploy Jekyll site to GitHub Pages
+# https://jekyllrb.com/docs/continuous-integration/github-actions/
+# normal gh-pages restricts use of jekyll (e.g. vers. 3.9) -> this action uses current jekyll
 
 on:
   push
