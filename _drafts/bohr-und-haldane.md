@@ -38,6 +38,11 @@ Der Haldane-Effekt widmet sich nun dem 2. Part im Gastransport: Der Entsorgung v
 
 Im Gewebe fällt der pO2 (z. B. durch die Atmungskette..), was dafür sorgt, dass das Hämoglobin mehr CO<sub>2</sub> abtransportieren kann (z.B. aus dem Citratzyklus).
 
+<figure>
+  <img src="{{"/assets/img/haldane.svg" | relative_url}}" alt="my alt text"/>
+  <figcaption>Die Sauerstoffbindungskurve (<a href="https://commons.wikimedia.org/wiki/File:O2-Bindungskurve.png">Florian Thillmann</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons).</figcaption>
+</figure>
+
 ## Summa summarum: Der Gastransport im Überblick
 
 Wie fügen sich nun beide Effekte zusammen? Beginnen wir in der **Lunge**. Dort führt der hohe pO2 dazu, dass das Hb plötzlich weniger CO<sub>2</sub> transportieren kann (Haldane). Praktischerweise kann dieses in der Alveole auch direkt per Diffusion abgegeben werden. Ein Problem weniger. 
@@ -52,6 +57,6 @@ Unter'm Stricht bedeutet dies letztlich, dass sich **Sauerstoff- und Kohlenstoff
 
 ## Die molekularen Mechanismen
 
-Bisher war die Beleuchtung der beiden Effekte eher recht "oberflächlich", um die tatsächliche Bedeutung 
+Bisher war die Beleuchtung der beiden Effekte eher recht "oberflächlich", um die tatsächliche Bedeutung Das ist ein test
 
 
