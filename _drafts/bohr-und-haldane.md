@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Bohr- & Haldane-Effekt: "
-date:   2022-04-04
-category: Physiologie
+#date:   2022-04-04
+#category: Physiologie
 tags: ["Hämoglobin", "Atmung", "Sauerstoffbindungskurve"]
 ---
 Beschäftigt man sich mit dem etwas "seltsamen" Molekül Hämoglobin und dessen Eigenschaften im Gastransport, wird man schnell mit den Begriffen *Haldane-* und *Bohr-Effekt* konfrontiert. Dabei ist die Differenzierung oft nicht einfach -- insbesondere, da sich beide Effekte ergänzen. Darum soll es nun in diesem Beitrag gehen.
