@@ -59,6 +59,23 @@ Unter'm Stricht bedeutet dies letztlich, dass sich **Sauerstoff- und Kohlenstoff
 
 ## Die molekularen Mechanismen
 
-Bisher war die Beleuchtung der beiden Effekte eher recht "oberflächlich", um die tatsächliche Bedeutung Das ist ein test
+Bisher wurden die beiden Effekte "oberflächlich" auf Organ- und Organismus-Niveau beleuchtet. Will man Bohr & Haldane verstehen, ist das wahrscheinlich auch die richtige "Vergrößerungsebene". Trotzdem stellt sich natürlich noch die Frage, wie das Ganze auf molekularer Ebene ausschaut. Warum ist das Hämoglobin so ein "plastisches" Molekül und kann seine Eigenschaften so deutlich verändern?
+
+Ausschlaggebend dafür ist der komplizierte Mechanismus der Sauerstoffbindung des Hämoglobins und die Konsequenzen die dieser für das ganze Molekül mit sich bringt. Dabei spielt maßgeblich die tetramere Struktur des Hbs eine Rolle.
+
+Die O<sub>2</sub>-Bindung ist mechanistisch tatsächlich gut verstanden, wir wollen hier aber nicht den Rahmen sprengen. Zusammenfassend kann man villeicht einfach sagen, dass die Bindung von Sauerstoff an das Hämoglobin die **Konformation des kompletten Moleküls ändert**. Ganz beeindruckend zeigt das folgende Grafik:
+
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Hemoglobin_t-r_state_ani.gif" alt="my alt text"/>
+  <figcaption>Hämoglobin im oxygenierten und desoxygenierten Zustand. Dargestellt sind jeweils die vier Globin-Ketten und deren vier prosthetische Porphyrin-Ringe. (<a href="https://commons.wikimedia.org/wiki/File:Hemoglobin_t-r_state_ani.gif">en:User:BerserkerBen</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons)</figcaption>
+</figure>
+
+Vereinfachend kann man sich das Hämoglobin also in zwei verschiedenen Konformationen vorstellen:
+
+- desoxygeniert im sog. *T-state* (*tense*)
+- oxygeniert im sog. *R-state* (*relaxed*)
+
+Mit diesem Modell lässt sich jetzt erklären, warum CO<sub>2</sub> die O<sub>2</sub>-Bindung beeinflussen kann: 
+
 
 
