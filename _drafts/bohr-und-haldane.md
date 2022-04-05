@@ -26,17 +26,19 @@ Dieses Problem wird zunächst einmal mit der **Sauerstoffbindungskurve** angegan
 
 ## Der Bohr-Effekt
 
-Und damit wären wir schon beim Bohr-Effekt angelangt: Dieser beschreibt nichts anderes als die **Rechtsverschiebung der SBK bei Zunahme des pCO2**. Da eine Rechtsverschiebung einer **Affintäts-Abnahme** entspricht, bedeutet dies, dass das anfallende CO<sub>2</sub> in den peripheren Geweben (z.B. aus dem Citratzyklus) die **Sauerstoff-*Ab*gabe fördert** (z.B. für die Atmungskette).
+Und damit wären wir schon beim Bohr-Effekt angelangt: Dieser beschreibt nichts anderes als die **Rechtsverschiebung der SBK bei Zunahme des pCO2**. Da eine Rechtsverschiebung einer **Affinitäts-Abnahme** entspricht, bedeutet dies, dass das anfallende CO<sub>2</sub> in den peripheren Geweben die **Sauerstoff-*Ab*gabe fördert**. 
 
-Das CO<sub>2</sub> in der Peripherie könnte beispielsweise aus dem **Citratzyklus** stammen. Schwimmt dann ein Hämoglobin vorbei, wird dieses dazu genötigt vermehrt O<sub>2</sub> abuzgeben. Und dieser Sauerstoff wiederum steht dann z. B. der **Atmungskette** zu Verfügung. Somit fördert der Bohr-Effekt die adäquate Energieversorgung der Zelle.
+Das CO<sub>2</sub> in der Peripherie könnte beispielsweise aus dem **Citratzyklus** stammen. Schwimmt dann ein Hämoglobin vorbei, wird dieses dazu genötigt, vermehrt O<sub>2</sub> abuzgeben. Und dieser Sauerstoff wiederum steht dann z. B. der **Atmungskette** zur Verfügung. Somit fördert der Bohr-Effekt die adäquate Energieversorgung der Zelle.
 
-Damit wäre geklärt, wie das Hämoglobin im Gewebe seinen Sauerstoff-Appetit etwas verliert, um die Versorgung unserer Zellen sicherzustellen. Und was macht der Haldane-Effekt?
+Im Umkehrschluss gilt dann auch: **Ein *geringer* pCO2 sorgt für eine *Links*verschiebung der SBK**. Dies ist dann insb. in der Lunge relevant (s. u.). 
+
+Damit wäre geklärt, wie das Hämoglobin im Gewebe seinen Sauerstoff-Appetit etwas verliert, um die Versorgung unserer Zellen sicherzustellen. Und was macht nun der Haldane-Effekt?
 
 ## Der Haldane-Effekt
 
-Der Haldane-Effekt widmet sich nun dem 2. Part im Gastransport: Der Entsorgung von CO<sub>2</sub>. Dabei geht es dieses Mal darum, Kohlenstoffdioxid in der Peripherie *auf*zunehmen und in der Lunge *ab*zugeben. Dabei ist der Trick ganz ähnlich wie beim Bohr-Effekt. Nur eben "umgedreht": Der Haldane-Effekt beschreibt, dass **desoxygeniertes Blut bessere CO<sub>2</sub>-Transporteigenschaften besitzt**. 
+Der Haldane-Effekt widmet sich dem 2. Part im Gastransport: Der Entsorgung von CO<sub>2</sub>. Dabei geht es dieses Mal darum, Kohlenstoffdioxid in der Peripherie *auf*zunehmen und in der Lunge *ab*zugeben. Dabei ist der Trick ganz ähnlich wie beim Bohr-Effekt. Nur eben "umgedreht": Der Haldane-Effekt beschreibt, dass **_des_-oxygeniertes Blut bessere CO<sub>2</sub>-Transporteigenschaften besitzt**. (Und umgekehrt.)
 
-Im Gewebe fällt der pO2 (z. B. durch die Atmungskette..), was dafür sorgt, dass das Hämoglobin mehr CO<sub>2</sub> abtransportieren kann (z.B. aus dem Citratzyklus).
+Im Gewebe _fällt_ der pO2 (z. B. durch die Atmungskette...), was dafür sorgt, dass das Hämoglobin mehr CO<sub>2</sub> abtransportieren kann (z.B. aus dem Citratzyklus).
 
 <figure>
   <img src="{{"/assets/img/haldane.svg" | relative_url}}" alt="my alt text"/>
@@ -47,13 +49,13 @@ Im Gewebe fällt der pO2 (z. B. durch die Atmungskette..), was dafür sorgt, das
 
 Wie fügen sich nun beide Effekte zusammen? Beginnen wir in der **Lunge**. Dort führt der hohe pO2 dazu, dass das Hb plötzlich weniger CO<sub>2</sub> transportieren kann (Haldane). Praktischerweise kann dieses in der Alveole auch direkt per Diffusion abgegeben werden. Ein Problem weniger. 
 
-Der daruch niedrige pCO2-Spiegel hat aber nun eine weitere Konsequenz: Gemäß dem Bohr-Effekt sorgt er für eine *Links*verschiebung der Sauerstoffbindungskurve. Das Hb kann sich in der Alveole also wunderbar mit Sauerstoff beladen. 
+Der dadurch niedrige pCO2-Spiegel hat aber nun eine weitere Konsequenz: Gemäß dem Bohr-Effekt sorgt er für eine *Links*verschiebung der Sauerstoffbindungskurve. Das Hb kann sich in der Alveole also wunderbar mit Sauerstoff beladen. 
 
-In der **Peripherie** angekommen steigt der pCO2-Spiegel so langsam. Dies führt nun zur *Rechts*verschiebung der SBK, das Hb gibt sein O<sub>2</sub> bereitwillig ab. Das somit desoxygenierte Hb kann nun auch vermehrt CO<sub>2</sub> aufnehmen. Dadurch wird verhindert, dass Kohlenstoffdioxid in den Geweben akkumuliert und dort den pH zu weit senkt. 
+In der **Peripherie** angekommen steigt der pCO2-Spiegel so langsam. Dies führt nun zur *Rechts*verschiebung der SBK, daraufhin gibt das Hb sein O<sub>2</sub> bereitwillig ab. Das somit desoxygenierte Hb kann nun auch vermehrt CO<sub>2</sub> aufnehmen. Dadurch wird verhindert, dass Kohlenstoffdioxid in den Geweben akkumuliert und dort den pH zu weit senkt. 
 
-Zurück in der Lunge angekommen kann das Hämoglobin das aufgenommene CO<sub>2</sub> dann wieder bereitwillig abgeben (s. o.). 
+Zurück in der Lunge angekommen kann das Hämoglobin das aufgenommene CO<sub>2</sub> dann wieder abgeben (s. o.). 
 
-Unter'm Stricht bedeutet dies letztlich, dass sich **Sauerstoff- und Kohlenstoffdioxid-Transport gegenseitig beeinflussen**. Als Gedankenstütze kann man sich vielleicht vorstellen, dass das Hb kein multi-tasker ist: entweder O<sub>2</sub> *oder* CO<sub>2</sub>. Auch das [Bild des Hbs als "Maultier"](https://user.medunigraz.at/helmut.hinghofer-szalkay/Bohr-Haldane.htm) gibt es, welches beim CO<sub>2</sub>-Transport immer etwas O<sub>2</sub> verliert -- und umgekehrt.
+Unter'm Stricht bedeutet dies letztlich, dass sich **Sauerstoff- und Kohlenstoffdioxidtransport gegenseitig beeinflussen**. Als Gedankenstütze kann man sich vielleicht vorstellen, dass das Hb kein multi-tasker ist: entweder O<sub>2</sub> *oder* CO<sub>2</sub>. Auch das [Bild des Hbs als "Maultier"](http://physiologie.cc/Bohr-Haldane.jpg) gibt es, welches beim CO<sub>2</sub>-Transport immer sein O<sub>2</sub> verliert -- und umgekehrt.
 
 ## Die molekularen Mechanismen
 
