@@ -20,8 +20,8 @@ Die Sauerstoff-Affinität des Hbs muss also hoch genug sein, um diesen in den Lu
 Dieses Problem wird zunächst einmal mit der **Sauerstoffbindungskurve** angegangen:
  
 <figure>
-  <img src="{{"/assets/img/sbk.png" | relative_url}}" alt="my alt text"/>
-  <figcaption>Die Sauerstoffbindungskurve (<a href="https://commons.wikimedia.org/wiki/File:O2-Bindungskurve.png">Florian Thillmann</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons).</figcaption>
+  <img src="{{"/assets/img/sauerstoffbindungskurve.svg" | relative_url}}" alt="my alt text"/>
+  <figcaption>{{ "**Sauerstoffbindungskurve**. Der Bohr-Effekt beschreibt die Rechtsverschiebung der Sauerstoffbindungskurve durch einen erhöhten pCO<sub>2</sub>. Dass dies einer Affinitätsabnahme entspricht, zeigt der Halbsättigungsdruck (P50): Durch die Rechtsverschiebung muss ein höherer pO<sub>2</sub> vorliegen, um 50% der Hämoglobin-Moleküle mit Sauerstoff zu beladen." | markdownify }} <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />Dieses <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" rel="dct:type">Werk</span> von <a xmlns:cc="http://creativecommons.org/ns#" href="{% link about.markdown %}" property="cc:attributionName" rel="cc:attributionURL">X</a> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.</figcaption>
 </figure>
 
 ## Der Bohr-Effekt
@@ -42,7 +42,7 @@ Im Gewebe _fällt_ der pO2 (z. B. durch die Atmungskette...), was dafür sorgt, 
 
 <figure>
   <img src="{{"/assets/img/haldane-graph.svg" | relative_url}}" alt="Haldane-Effekt anhand der CO2-Bindungskurve"/>
-  <figcaption>{{ "Der Haldane-Effekt anhand der CO<sub>2</sub>-Bindungskurve. Bei gleichem Partialdruck kann desoxygeniertes Blut mehr Kohlenstoffdioxid transportieren." | markdownify }} <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />Dieses <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" rel="dct:type">Werk</span> von <a xmlns:cc="http://creativecommons.org/ns#" href="{% link about.markdown %}" property="cc:attributionName" rel="cc:attributionURL">PEPPS CK</a> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.</figcaption>
+  <figcaption>{{ "Der Haldane-Effekt anhand der CO<sub>2</sub>-Bindungskurve. Bei gleichem Partialdruck kann desoxygeniertes Blut mehr Kohlenstoffdioxid transportieren." | markdownify }} <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />Dieses <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" rel="dct:type">Werk</span> von <a xmlns:cc="http://creativecommons.org/ns#" href="{% link about.markdown %}" property="cc:attributionName" rel="cc:attributionURL">X</a> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.</figcaption>
 </figure>
 
 ## Summa summarum: Der Gastransport im Überblick
