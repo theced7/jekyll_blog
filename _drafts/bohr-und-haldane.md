@@ -9,51 +9,51 @@ Beschäftigt man sich mit dem etwas "seltsamen" Molekül Hämoglobin und dessen 
 
 <!--more-->
 
-## Das Dilemma des Hämoglobins
+## Der Bohr-Effekt
 
-Grundsätzliches Problem ist folgendes: In der **Lunge** muss das Hämoglobin den Sauersoff natürlich möglichst gut *aufnehmen* können. Im **Gewebe** hingegen kann ein _zu_ großer "Hunger" des Hämoglobins nach Sauerstoff dessen _Abgabe_ an die Zellen erschweren.
+### Das Problem: Hämoblogin im Dilemma
+
+Grundsätzliches Problem ist folgendes: In der **Lunge** muss das Hämoglobin den Sauerstoff natürlich möglichst gut *aufnehmen* können. Im **Gewebe** hingegen kann ein _zu_ großer "Hunger" des Hämoglobins nach Sauerstoff dessen _Abgabe_ an die Zellen erschweren.
 
 Die Sauerstoff-Affinität des Hbs muss also hoch genug sein, um diesen in den Lungenkapillaren effektiv binden zu können -- und niedrig genug, um ihn in den Geweben trotzdem wieder abgeben zu können. Denn dort wird er ja schließlich auch gebraucht.
 
-## Die Sauerstoffbindungskurve
+### Die Lösung: Der Bohr-Effekt und die Sauerstoffbindungskurve
 
-Dieses Problem wird zunächst einmal mit der **Sauerstoffbindungskurve** angegangen:
- 
+Und damit wären wir schon beim Bohr-Effekt angelangt: Dieser beschreibt nichts anderes als die **Rechtsverschiebung der SBK bei Zunahme des pCO2**. Da eine Rechtsverschiebung einer **Affinitäts-Abnahme** entspricht, bedeutet dies, dass **das anfallende CO<sub>2</sub> in den peripheren Geweben die Sauerstoff-*Ab*gabe fördert**. 
+
 <figure>
   <img src="{{"/assets/img/sauerstoffbindungskurve.svg" | relative_url}}" alt="my alt text"/>
-  <figcaption>{{ "**Sauerstoffbindungskurve**. Der Bohr-Effekt beschreibt die Rechtsverschiebung der Sauerstoffbindungskurve durch einen erhöhten pCO<sub>2</sub>. Dass dies einer Affinitätsabnahme entspricht, zeigt der Halbsättigungsdruck (P50): Durch die Rechtsverschiebung muss ein höherer pO<sub>2</sub> vorliegen, um 50% der Hämoglobin-Moleküle mit Sauerstoff zu beladen." | markdownify }} <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />Dieses <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" rel="dct:type">Werk</span> von <a xmlns:cc="http://creativecommons.org/ns#" href="{% link about.markdown %}" property="cc:attributionName" rel="cc:attributionURL">X</a> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.</figcaption>
+  <figcaption>{{ "**Sauerstoffbindungskurve**. Der Bohr-Effekt beschreibt die Rechtsverschiebung der Sauerstoffbindungskurve durch einen erhöhten pCO<sub>2</sub>. Dass dies einer Affinitätsabnahme entspricht, zeigt der Halbsättigungsdruck (P50): Durch die Rechtsverschiebung muss ein höherer pO<sub>2</sub> vorliegen, um 50% der Hämoglobin-Moleküle mit Sauerstoff zu beladen. 
+  
+  *Nota bene:* Daneben existieren noch weitere Faktoren, die eine Rechtsverschiebung begünstigen: Eine Erhöhung der Temperatur, eine erhöhte 2,3-Bisphosphoglycerat-Konzentration oder ein Abfallen des pH-Werts. Der Bohr-Effekt bezieht sich aber direkt auf den Effekt des CO<sub>2</sub>." | markdownify }} <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />Dieses <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" rel="dct:type">Werk</span> von <a xmlns:cc="http://creativecommons.org/ns#" href="{% link about.markdown %}" property="cc:attributionName" rel="cc:attributionURL">X</a> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.</figcaption>
 </figure>
 
-## Der Bohr-Effekt
+Das CO<sub>2</sub> in der Peripherie könnte beispielsweise aus dem **Citratzyklus** stammen. Schwimmt dann ein Hämoglobin vorbei, wird dieses dazu genötigt, vermehrt O<sub>2</sub> abuzgeben. Und dieser Sauerstoff steht dann wiederum z. B. der **Atmungskette** zur Verfügung. Somit fördert der Bohr-Effekt die adäquate Energieversorgung der Zelle.
 
-Und damit wären wir schon beim Bohr-Effekt angelangt: Dieser beschreibt nichts anderes als die **Rechtsverschiebung der SBK bei Zunahme des pCO2**. Da eine Rechtsverschiebung einer **Affinitäts-Abnahme** entspricht, bedeutet dies, dass das anfallende CO<sub>2</sub> in den peripheren Geweben die **Sauerstoff-*Ab*gabe fördert**. 
-
-Das CO<sub>2</sub> in der Peripherie könnte beispielsweise aus dem **Citratzyklus** stammen. Schwimmt dann ein Hämoglobin vorbei, wird dieses dazu genötigt, vermehrt O<sub>2</sub> abuzgeben. Und dieser Sauerstoff wiederum steht dann z. B. der **Atmungskette** zur Verfügung. Somit fördert der Bohr-Effekt die adäquate Energieversorgung der Zelle.
-
-Im Umkehrschluss gilt dann auch: **Ein *geringer* pCO2 sorgt für eine *Links*verschiebung der SBK**. Dies ist dann insb. in der Lunge relevant (s. u.). 
+Im Umkehrschluss gilt übrigens auch: **Ein *geringer* pCO2 sorgt für eine *Links*verschiebung der SBK**. Dies ist insb. in der Lunge relevant (s. u.). 
 
 Damit wäre geklärt, wie das Hämoglobin im Gewebe seinen Sauerstoff-Appetit etwas verliert, um die Versorgung unserer Zellen sicherzustellen. Und was macht nun der Haldane-Effekt?
 
 ## Der Haldane-Effekt
 
-Der Haldane-Effekt widmet sich dem 2. Part im Gastransport: Der Entsorgung von CO<sub>2</sub>. Dabei geht es dieses Mal darum, Kohlenstoffdioxid in der Peripherie *auf*zunehmen und in der Lunge *ab*zugeben. Dabei ist der Trick ganz ähnlich wie beim Bohr-Effekt. Nur eben "umgedreht": Der Haldane-Effekt beschreibt, dass **_des_-oxygeniertes Blut bessere CO<sub>2</sub>-Transporteigenschaften besitzt**. (Und umgekehrt.)
+Der Haldane-Effekt widmet sich dem 2. Part im Gastransport: Der Entsorgung von CO<sub>2</sub>. Dabei geht es dieses Mal darum, **Kohlenstoffdioxid** in der Peripherie *auf*zunehmen und in der Lunge *ab*zugeben. Dabei ist der Trick ganz ähnlich wie beim Bohr-Effekt. Nur eben für das CO<sub>2</sub> "umgedreht": Der Haldane-Effekt beschreibt, dass **_des_-oxygeniertes Blut bessere CO<sub>2</sub>-Transporteigenschaften besitzt**. (Und umgekehrt.)
 
 Im Gewebe _fällt_ der pO2 (z. B. durch die Atmungskette...), was dafür sorgt, dass das Hämoglobin mehr CO<sub>2</sub> abtransportieren kann (z.B. aus dem Citratzyklus). 
 
 <figure>
   <img src="{{"/assets/img/haldane-graph.svg" | relative_url}}" alt="Haldane-Effekt anhand der CO2-Bindungskurve"/>
-  <figcaption>{{ "Der Haldane-Effekt anhand der CO<sub>2</sub>-Bindungskurve. Bei gleichem Partialdruck kann desoxygeniertes Blut mehr Kohlenstoffdioxid transportieren." | markdownify }} <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />Dieses <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" rel="dct:type">Werk</span> von <a xmlns:cc="http://creativecommons.org/ns#" href="{% link about.markdown %}" property="cc:attributionName" rel="cc:attributionURL">X</a> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.</figcaption>
+  <figcaption>{{ "**Der Haldane-Effekt anhand der CO<sub>2</sub>-Bindungskurve.** Bei gleichem Partialdruck kann desoxygeniertes Blut mehr Kohlenstoffdioxid transportieren." | markdownify }} <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />Dieses <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" rel="dct:type">Werk</span> von <a xmlns:cc="http://creativecommons.org/ns#" href="{% link about.markdown %}" property="cc:attributionName" rel="cc:attributionURL">X</a> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.</figcaption>
 </figure>
 
 ## Summa summarum: Der Gastransport im Überblick
 
-Wie fügen sich nun beide Effekte zusammen? Beginnen wir in der **Lunge**. Dort führt der hohe pO2 dazu, dass das Hb plötzlich weniger CO<sub>2</sub> transportieren kann (Haldane). Praktischerweise kann dieses in der Alveole auch direkt per Diffusion abgegeben werden. Ein Problem weniger. 
+Wie fügen sich nun beide Effekte zusammen? Beginnen wir in der **Lunge**. Dort führt der hohe pO2 dazu, dass das Hb plötzlich weniger CO<sub>2</sub> transportieren kann (*Haldane*). Praktischerweise kann dieses in der Alveole auch direkt per Diffusion abgegeben werden. Ein Problem weniger. 
 
 Der dadurch niedrige pCO2-Spiegel hat aber nun eine weitere Konsequenz: Gemäß dem Bohr-Effekt sorgt er für eine *Links*verschiebung der Sauerstoffbindungskurve. Das Hb kann sich in der Alveole also wunderbar mit Sauerstoff beladen. 
 
-In der **Peripherie** angekommen steigt der pCO2-Spiegel so langsam. Dies führt nun zur *Rechts*verschiebung der SBK, daraufhin gibt das Hb sein O<sub>2</sub> bereitwillig ab. Das somit desoxygenierte Hb kann nun auch vermehrt CO<sub>2</sub> aufnehmen. Dadurch wird verhindert, dass Kohlenstoffdioxid in den Geweben akkumuliert und dort den pH zu weit senkt. 
+In der **Peripherie** angekommen steigt der pCO2-Spiegel so langsam. Dies führt nun zur *Rechts*verschiebung der SBK, woraufhin das Hb sein O<sub>2</sub> bereitwillig abgibt. Das somit desoxygenierte Hb kann nun auch vermehrt CO<sub>2</sub> aufnehmen. Dadurch wird verhindert, dass Kohlenstoffdioxid in den Geweben akkumuliert und dort den pH zu weit senkt. 
 
-Zurück in der Lunge angekommen kann das Hämoglobin das aufgenommene CO<sub>2</sub> dann wieder abgeben (s. o.). 
+Zurück in der Lunge angekommen kann das Hämoglobin das aufgenommene CO<sub>2</sub> dann wieder abgeben (s. o.). Ein Kreislauf des Gastransportes.
 
 Unter'm Stricht bedeutet dies letztlich, dass sich **Sauerstoff- und Kohlenstoffdioxidtransport gegenseitig beeinflussen**. Als Gedankenstütze kann man sich vielleicht vorstellen, dass das Hb kein multi-tasker ist: entweder O<sub>2</sub> *oder* CO<sub>2</sub>. Auch das [Bild des Hbs als "Maultier"](http://physiologie.cc/Bohr-Haldane.jpg) gibt es, welches beim CO<sub>2</sub>-Transport immer sein O<sub>2</sub> verliert -- und umgekehrt.
 
