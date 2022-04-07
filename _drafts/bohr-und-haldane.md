@@ -41,7 +41,7 @@ Der Haldane-Effekt widmet sich dem 2. Part im Gastransport: Der Entsorgung von C
 Im Gewebe _fällt_ der pO2 (z. B. durch die Atmungskette...), was dafür sorgt, dass das Hämoglobin mehr CO<sub>2</sub> abtransportieren kann (z.B. aus dem Citratzyklus).
 
 <figure>
-  <img src="{{"/assets/img/haldane.svg" | relative_url}}" alt="my alt text"/>
+  <img src="{{"/assets/img/haldane-graph.svg" | relative_url}}" alt="my alt text"/>
   <figcaption>Die Sauerstoffbindungskurve (<a href="https://commons.wikimedia.org/wiki/File:O2-Bindungskurve.png">Florian Thillmann</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons).</figcaption>
 </figure>
 
