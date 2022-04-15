@@ -5,7 +5,7 @@ title:  "Bohr- & Haldane-Effekt: "
 #category: Physiologie
 tags: ["Hämoglobin", "Atmung", "Sauerstoffbindungskurve"]
 ---
-Beschäftigt man sich mit dem etwas "seltsamen" Molekül Hämoglobin und dessen Eigenschaften im Gastransport, wird man schnell mit den Begriffen *Haldane-* und *Bohr-Effekt* konfrontiert. Dabei ist die Differenzierung oft nicht einfach -- insbesondere, da sich beide Effekte ergänzen. Darum soll es nun in diesem Beitrag gehen.
+Beschäftigt man sich mit dem etwas "seltsamen" Molekül Hämoglobin und dem Gastransport, fallen schnell die Begriffe *"Bohr- und Haldane-Effekt"*. Dabei ist die Differenzierung oft nicht einfach -- insbesondere, da sich beide Effekte ergänzen. Darum soll es nun in diesem Beitrag gehen.
 
 <!--more-->
 
@@ -28,7 +28,7 @@ Und damit wären wir schon beim Bohr-Effekt angelangt: Dieser beschreibt nichts 
   *Nota bene:* Daneben existieren noch weitere Faktoren, die eine Rechtsverschiebung begünstigen: Eine Erhöhung der Temperatur, eine erhöhte 2,3-Bisphosphoglycerat-Konzentration oder ein Abfallen des pH-Werts. Der Bohr-Effekt bezieht sich aber direkt auf den Effekt des CO<sub>2</sub>." | markdownify }} <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />Dieses <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" rel="dct:type">Werk</span> von <a xmlns:cc="http://creativecommons.org/ns#" href="{% link about.markdown %}" property="cc:attributionName" rel="cc:attributionURL">X</a> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.</figcaption>
 </figure>
 
-Das CO<sub>2</sub> in der Peripherie könnte beispielsweise aus dem **Citratzyklus** stammen. Schwimmt dann ein Hämoglobin vorbei, wird dieses dazu genötigt, vermehrt O<sub>2</sub> abuzgeben. Und dieser Sauerstoff steht dann wiederum z. B. der **Atmungskette** zur Verfügung. Somit fördert der Bohr-Effekt die adäquate Energieversorgung der Zelle.
+Das CO<sub>2</sub> in der Peripherie könnte beispielsweise aus dem **Citratzyklus** stammen. Schwimmt dann ein Hämoglobin vorbei, wird dieses dazu genötigt, vermehrt O<sub>2</sub> abuzgeben. Und dieser Sauerstoff steht dann wiederum z. B. der **Atmungskette** zur Verfügung. Somit steht der Bohr-Effekt beispielsweise in Zusammenhang mit dem Energiestoffwechsel.
 
 Im Umkehrschluss gilt übrigens auch: **Ein *geringer* pCO2 sorgt für eine *Links*verschiebung der SBK**. Dies ist insb. in der Lunge relevant (s. u.). 
 
@@ -59,11 +59,11 @@ Unter'm Stricht bedeutet dies letztlich, dass sich **Sauerstoff- und Kohlenstoff
 
 ## Die molekularen Mechanismen
 
-Bisher wurden die beiden Effekte "oberflächlich" auf Organ- und Organismus-Niveau beleuchtet. Will man Bohr & Haldane verstehen, ist das wahrscheinlich auch die richtige "Vergrößerungsebene". Trotzdem stellt sich natürlich noch die Frage, wie das Ganze auf molekularer Ebene ausschaut. Warum ist das Hämoglobin so ein "plastisches" Molekül und kann seine Eigenschaften so deutlich verändern?
+Bisher haben wir die beiden Effekte "oberflächlich" auf Organ- und Organismus-Niveau betrachtet. Will man Bohr & Haldane verstehen, ist das wahrscheinlich auch die richtige "Vergrößerungsebene". Trotzdem stellt sich natürlich noch die Frage, wie das Ganze auf molekularer Ebene ausschaut. Warum ist das Hämoglobin so ein "plastisches" Molekül und kann seine Eigenschaften so deutlich verändern?
 
 Ausschlaggebend dafür ist der komplizierte Mechanismus der Sauerstoffbindung des Hämoglobins und die Konsequenzen die dieser für das ganze Molekül mit sich bringt. Dabei spielt maßgeblich die tetramere Struktur des Hbs eine Rolle.
 
-Die O<sub>2</sub>-Bindung ist mechanistisch tatsächlich gut verstanden, wir wollen hier aber nicht den Rahmen sprengen. Zusammenfassend kann man villeicht einfach sagen, dass die Bindung von Sauerstoff an das Hämoglobin die **Konformation des kompletten Moleküls ändert**. Ganz beeindruckend zeigt das folgende Grafik:
+Die O<sub>2</sub>-Bindung ist mechanistisch tatsächlich gut verstanden, wir wollen hier aber nicht den Rahmen sprengen. Zusammenfassend kann man villeicht einfach sagen, dass die **Bindung von Sauerstoff** an das Hämoglobin die **Konformation des kompletten Moleküls ändert**. Ganz beeindruckend zeigt das folgende Grafik:
 
 <figure>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Hemoglobin_t-r_state_ani.gif" alt="my alt text"/>
@@ -75,7 +75,37 @@ Vereinfachend kann man sich das Hämoglobin also in zwei verschiedenen Konformat
 - desoxygeniert im sog. *T-state* (*tense*)
 - oxygeniert im sog. *R-state* (*relaxed*)
 
-Mit diesem Modell lässt sich jetzt erklären, warum CO<sub>2</sub> die O<sub>2</sub>-Bindung beeinflussen kann: 
+Mit diesem Modell lässt sich jetzt erklären, warum CO<sub>2</sub> die O<sub>2</sub>-Bindung beeinflussen kann.
+
+### Bohr
+
+Test.
+
+### Haldane
+
+Hier muss man sich die **Transportformen des CO<sub>2</sub>** in Erinnerung rufen:
+
+- 90%: als **Bicarbonat** gelöst (über Carboanhydrase)
+- 5%: als sog. **Carbamino-Hb**; kovalent an N-terminale Enden des Hämoglobin gebunden
+- 5%: physikalisch gelöst 
+
+Der Großteil des Kohlenstoffdioxids wird also als Bikarbonat transportiert. Dafür wird maßgeblich folgende Reaktion der **Carboanhydrase** benötigt:
+
+<!-- 
+TODO: Hier Carboanhydrase einfügen
+-->
+
+Zusätzlich zum Bikarbonat fällt also eine äquimolare Menge an Protonen an. Werden diese aus dem Reaktionsgleichgewicht entfernt, wird nach dem Prinzip von Le Chatelier die Bildung weiterer Produkte begünstigt. Wie entzieht man nun die Protonen dem Gleichgewicht? Durch Pufferung. Also: **Je mehr Protonen weggepuffert werden können, desto mehr Bikarbonat kann gebildet werden.**
+
+Und wer puffert? Hier ist es ausschlaggebend, dass das Hämoglobin selbst ca. 35% des Gesamtblutpuffers stellt. Ursächlich sind die vielen Histidin-Reste im Hämoglobin.
+
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Proteolysis_Histidine.svg" alt="Proteolyse von Histidin"/>
+  <figcaption>Durch seinen pK<sub>s</sub> um den Neutralbereich eignet sich Histidin als Puffer.</figcaption>
+</figure>
+
+Und der Haldane-Effekt erklärt sich nun dadurch, dass durch die Konformationsänderung in den *t-state* (s.o.) die Pufferkapazität des Hbs erhöht wird.
+
 
 
 
