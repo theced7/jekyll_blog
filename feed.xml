@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://theced7.github.io/jekyll_blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://theced7.github.io/jekyll_blog/" rel="alternate" type="text/html" /><updated>2022-04-19T08:11:04+00:00</updated><id>https://theced7.github.io/jekyll_blog/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Das ist ein neuer Test!</title><link href="https://theced7.github.io/jekyll_blog/2022/03/31/das-ist-ein-neuer-test.html" rel="alternate" type="text/html" title="Das ist ein neuer Test!" /><published>2022-03-31T22:00:27+00:00</published><updated>2022-03-31T22:00:27+00:00</updated><id>https://theced7.github.io/jekyll_blog/2022/03/31/das-ist-ein-neuer-test</id><content type="html" xml:base="https://theced7.github.io/jekyll_blog/2022/03/31/das-ist-ein-neuer-test.html"><![CDATA[<p>Das ist der Abstrakt.</p>
+
+<p>Das ist der 2. Absatz des Abstrakts</p>
+
+<!--more-->
+
+<h2 id="das-ist-ein-2-test">Das ist ein 2. Test.</h2>
+
+<p>Wie der wohl aussschauen mag?</p>
+
+<p>Das ist ein Bild: <img src="/jekyll_blog/assets/img/1.png" alt="Bild" /></p>
+
+<h2 id="das-ist-ein-test-für-das-plugin-timeago">Das ist ein Test für das plugin <code class="language-plaintext highlighter-rouge">timeago</code></h2>
+
+<ul>
+  <li>Original date - 2020-04-13T10:20:00Z</li>
+  <li>With timeago filter - 2 years and 6 days ago</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Das ist der Abstrakt. Das ist der 2. Absatz des Abstrakts]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="https://theced7.github.io/jekyll_blog/jekyll/update/2022/03/31/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-03-31T17:14:27+00:00</published><updated>2022-03-31T17:14:27+00:00</updated><id>https://theced7.github.io/jekyll_blog/jekyll/update/2022/03/31/welcome-to-jekyll</id><content type="html" xml:base="https://theced7.github.io/jekyll_blog/jekyll/update/2022/03/31/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<!--more-->
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Das ist ein Test!</title><link href="https://theced7.github.io/jekyll_blog/2022/03/31/das-ist-ein-test.html" rel="alternate" type="text/html" title="Das ist ein Test!" /><published>2022-03-31T17:14:27+00:00</published><updated>2022-03-31T17:14:27+00:00</updated><id>https://theced7.github.io/jekyll_blog/2022/03/31/das-ist-ein-test</id><content type="html" xml:base="https://theced7.github.io/jekyll_blog/2022/03/31/das-ist-ein-test.html"><![CDATA[<!--more-->
+
+<h2 id="test">Test!</h2>
+
+<p>Das ist ein <strong>Test-Post</strong> um <em>Markdown</em> und <strong>Jekyll</strong> auszuprobieren.</p>
+
+<p>Das ist ein 2. Absatz.</p>
+
+<ul>
+  <li>Das ist eine Liste</li>
+  <li>das ist ein 2. Item.</li>
+</ul>
+
+<p>Was macht das?</p>
+<ul>
+  
+    <li>
+      <a href="/jekyll_blog/2022/03/31/das-ist-ein-neuer-test.html">Das ist ein neuer Test!</a>
+    </li>
+  
+    <li>
+      <a href="/jekyll_blog/jekyll/update/2022/03/31/welcome-to-jekyll.html">Welcome to Jekyll!</a>
+    </li>
+  
+    <li>
+      <a href="/jekyll_blog/2022/03/31/das-ist-ein-test.html">Das ist ein Test!</a>
+    </li>
+  
+</ul>
+
+<p>Das ist ein Test für Liquid filter das sollte alles klein sein</p>
+
+<p>/2022/03/31/das-ist-ein-test.html</p>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry></feed>
